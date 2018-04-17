@@ -108,6 +108,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-17
 
 DEPENDENCIES
   bundler
@@ -120,4 +121,4 @@ DEPENDENCIES
   shotgun
 
 BUNDLED WITH
-   1.12.5
+   1.16.1
